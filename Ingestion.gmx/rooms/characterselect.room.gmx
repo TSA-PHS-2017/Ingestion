@@ -8,7 +8,7 @@
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
-  <colour>12632256</colour>
+  <colour>8454143</colour>
   <showcolour>-1</showcolour>
   <code></code>
   <enableViews>0</enableViews>
@@ -51,11 +51,10 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_apple" x="32" y="128" name="inst_4BAF8E42" locked="0" code="" scaleX="6.19354820251465" scaleY="6.19354820251465" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Burger" x="512" y="128" name="inst_1D7BD1A9" locked="0" code="" scaleX="7.46666669845581" scaleY="7.22580623626709" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Candy" x="32" y="448" name="inst_91DF23C7" locked="0" code="" scaleX="6.19354820251465" scaleY="6.19354820251465" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Sushi" x="480" y="416" name="inst_121541D6" locked="0" code="" scaleX="7.46666669845581" scaleY="7.46666669845581" colour="4294967295" rotation="0"/>
-    <instance objName="obj_wall" x="128" y="352" name="inst_8A4A389E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_sushi_large" x="544" y="544" name="inst_DE009CFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_candy_large" x="64" y="544" name="inst_E81F6AEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_apple_large" x="64" y="224" name="inst_71CDD686" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_burger_large" x="544" y="224" name="inst_D47562B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

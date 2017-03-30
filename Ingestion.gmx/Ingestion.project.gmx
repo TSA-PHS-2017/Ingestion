@@ -13,6 +13,10 @@
     <sprite>sprites\spr_Burger</sprite>
     <sprite>sprites\spr_Candy</sprite>
     <sprite>sprites\spr_Sushi</sprite>
+    <sprite>sprites\spr_Apple_Large</sprite>
+    <sprite>sprites\spr_Burger_Large</sprite>
+    <sprite>sprites\spr_Sushi_Large</sprite>
+    <sprite>sprites\spr_Candy_Large</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -26,6 +30,10 @@
     <object>objects\obj_Burger</object>
     <object>objects\obj_Candy</object>
     <object>objects\obj_Sushi</object>
+    <object>objects\obj_apple_large</object>
+    <object>objects\obj_burger_large</object>
+    <object>objects\obj_candy_large</object>
+    <object>objects\obj_sushi_large</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
