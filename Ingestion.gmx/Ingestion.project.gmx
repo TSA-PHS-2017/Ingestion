@@ -39,7 +39,6 @@
   <rooms name="rooms">
     <room>rooms\rm_title</room>
     <room>rooms\characterselect</room>
-    <room>rooms\Instructions</room>
     <room>rooms\rm_game</room>
   </rooms>
   <help>
