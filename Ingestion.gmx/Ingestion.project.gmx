@@ -30,10 +30,11 @@
     <object>objects\obj_Burger</object>
     <object>objects\obj_Candy</object>
     <object>objects\obj_Sushi</object>
-    <object>objects\obj_apple_large</object>
-    <object>objects\obj_burger_large</object>
-    <object>objects\obj_candy_large</object>
-    <object>objects\obj_sushi_large</object>
+    <object>objects\obj_apple_button</object>
+    <object>objects\obj_burger_button</object>
+    <object>objects\obj_candy_button</object>
+    <object>objects\obj_sushi_button</object>
+    <object>objects\obj_player</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
