@@ -17,10 +17,12 @@
     <sprite>sprites\spr_Burger_Large</sprite>
     <sprite>sprites\spr_Sushi_Large</sprite>
     <sprite>sprites\spr_Candy_Large</sprite>
+    <sprite>sprites\button_instructions</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
+    <background>background\instructions</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -35,11 +37,13 @@
     <object>objects\obj_candy_button</object>
     <object>objects\obj_sushi_button</object>
     <object>objects\obj_player</object>
+    <object>objects\ob_button_instructions</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
     <room>rooms\characterselect</room>
     <room>rooms\rm_game</room>
+    <room>rooms\rm_instructions</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
