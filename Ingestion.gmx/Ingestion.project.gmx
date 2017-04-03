@@ -17,16 +17,6 @@
     <sprite>sprites\spr_Burger_Large</sprite>
     <sprite>sprites\spr_Sushi_Large</sprite>
     <sprite>sprites\spr_Candy_Large</sprite>
-    <sprite>sprites\spr_enemy1</sprite>
-    <sprite>sprites\spr_enemy2</sprite>
-    <sprite>sprites\spr_enemy3</sprite>
-    <sprite>sprites\spr_enemy4</sprite>
-    <sprite>sprites\spr_enemy5</sprite>
-    <sprite>sprites\spr_enemy6</sprite>
-    <sprite>sprites\spr_enemy7</sprite>
-    <sprite>sprites\spr_enemy8</sprite>
-    <sprite>sprites\spr_enemy9</sprite>
-    <sprite>sprites\spr_enemy0</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -45,23 +35,11 @@
     <object>objects\obj_candy_button</object>
     <object>objects\obj_sushi_button</object>
     <object>objects\obj_player</object>
-    <object>objects\obj_enemy1</object>
-    <object>objects\obj_enemy2</object>
-    <object>objects\obj_enemy3</object>
-    <object>objects\obj_enemy4</object>
-    <object>objects\obj_enemy5</object>
-    <object>objects\obj_enemy6</object>
-    <object>objects\obj_enemy7</object>
-    <object>objects\obj_enemy8</object>
-    <object>objects\obj_enemy9</object>
-    <object>objects\obj_enemy0</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
-    <room>rooms\rm_characterselect</room>
+    <room>rooms\characterselect</room>
     <room>rooms\rm_game</room>
-    <room>rooms\rm_fail</room>
-    <room>rooms\rm_win</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
