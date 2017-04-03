@@ -20,6 +20,6 @@
   <width>128</width>
   <height>128</height>
   <frames>
-    <frame index="0">images\heartburn_0.png</frame>
+    <frame index="0">images\spr_heartburn_0.png</frame>
   </frames>
 </sprite>
