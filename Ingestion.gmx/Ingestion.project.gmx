@@ -18,11 +18,21 @@
     <sprite>sprites\spr_Sushi_Large</sprite>
     <sprite>sprites\spr_Candy_Large</sprite>
     <sprite>sprites\button_instructions</sprite>
+    <sprite>sprites\asthma</sprite>
+    <sprite>sprites\carpaltunnel</sprite>
+    <sprite>sprites\enzyme</sprite>
+    <sprite>sprites\heartburn</sprite>
+    <sprite>sprites\heartdisease</sprite>
+    <sprite>sprites\mentalillness</sprite>
+    <sprite>sprites\nosebleed</sprite>
+    <sprite>sprites\stomachacid</sprite>
+    <sprite>sprites\cavities</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
     <background>background\instructions</background>
+    <background>background\page_2_instructions</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -38,12 +48,23 @@
     <object>objects\obj_sushi_button</object>
     <object>objects\obj_player</object>
     <object>objects\ob_button_instructions</object>
+    <object>objects\instructions_2</object>
+    <object>objects\obj_asthma</object>
+    <object>objects\obj_carpaltunnel</object>
+    <object>objects\obj_enzyme</object>
+    <object>objects\obj_heartburn</object>
+    <object>objects\obj_heartdisease</object>
+    <object>objects\obj_mentalillness</object>
+    <object>objects\obj_nosebleed</object>
+    <object>objects\obj_cavities</object>
+    <object>objects\obj_stomachacid</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
     <room>rooms\characterselect</room>
     <room>rooms\rm_game</room>
     <room>rooms\rm_instructions</room>
+    <room>rooms\page2instructions</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

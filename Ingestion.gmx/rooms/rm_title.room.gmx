@@ -52,6 +52,7 @@
   </views>
   <instances>
     <instance objName="buttonPlay" x="192" y="2272" name="inst_F6870EA9" locked="0" code="" scaleX="4.40000009536743" scaleY="4.40000009536743" colour="4294967295" rotation="0"/>
+    <instance objName="ob_button_instructions" x="2240" y="2272" name="inst_7CA1E9AB" locked="0" code="" scaleX="5.54330730438232" scaleY="5.5" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
