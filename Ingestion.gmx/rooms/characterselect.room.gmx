@@ -55,6 +55,7 @@
     <instance objName="obj_candy_button" x="64" y="544" name="inst_E81F6AEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_apple_button" x="64" y="224" name="inst_71CDD686" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_burger_button" x="544" y="224" name="inst_D47562B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_return_to_home" x="288" y="640" name="inst_25AE83DD" locked="0" code="" scaleX="0.625" scaleY="0.625" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
