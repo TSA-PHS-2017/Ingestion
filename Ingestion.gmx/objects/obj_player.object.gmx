@@ -175,7 +175,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_Burger</sprite>
+            <sprite>spr_burger</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -259,7 +259,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_Candy</sprite>
+            <sprite>spr_candy</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -343,7 +343,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_Sushi</sprite>
+            <sprite>spr_sushi</sprite>
           </argument>
           <argument>
             <kind>0</kind>

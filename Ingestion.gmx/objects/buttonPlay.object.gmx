@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>characterselect</room>
+            <room>rm_characterSelect</room>
           </argument>
         </arguments>
       </action>
