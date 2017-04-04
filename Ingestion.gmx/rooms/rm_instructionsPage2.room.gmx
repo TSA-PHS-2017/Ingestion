@@ -60,7 +60,7 @@
     <instance objName="obj_enemy6" x="672" y="1248" name="inst_9687F269" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy8" x="1184" y="864" name="inst_E70F9B22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy9" x="960" y="1120" name="inst_78FD41BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="buttonPlay" x="1344" y="1344" name="inst_F6705CC3" locked="0" code="" scaleX="1.39999997615814" scaleY="1.39999997615814" colour="4294967295" rotation="0"/>
+    <instance objName="obj_buttonPlay" x="1344" y="1344" name="inst_F6705CC3" locked="0" code="" scaleX="1.39999997615814" scaleY="1.39999997615814" colour="4294967295" rotation="0"/>
     <instance objName="obj_button_instructions" x="1088" y="1344" name="inst_0E80432F" locked="0" code="" scaleX="2" scaleY="1.75" colour="4294967295" rotation="0"/>
     <instance objName="obj_button_returnToHome" x="832" y="1344" name="inst_C731A95E" locked="0" code="" scaleX="1" scaleY="0.875" colour="4294967295" rotation="0"/>
   </instances>

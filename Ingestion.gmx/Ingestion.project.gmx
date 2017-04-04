@@ -26,15 +26,20 @@
       <sprite>sprites\spr_apple</sprite>
     </sprites>
     <sprites name="enemies">
-      <sprite>sprites\spr_asthma</sprite>
-      <sprite>sprites\spr_carpaltunnel</sprite>
-      <sprite>sprites\spr_enzyme</sprite>
-      <sprite>sprites\spr_heartburn</sprite>
-      <sprite>sprites\spr_heartdisease</sprite>
-      <sprite>sprites\spr_mentalillness</sprite>
-      <sprite>sprites\spr_nosebleed</sprite>
-      <sprite>sprites\spr_stomachacid</sprite>
-      <sprite>sprites\spr_cavities</sprite>
+      <sprites name="large">
+        <sprite>sprites\spr_cavities</sprite>
+        <sprite>sprites\spr_stomachacid</sprite>
+        <sprite>sprites\spr_nosebleed</sprite>
+        <sprite>sprites\spr_mentalillness</sprite>
+        <sprite>sprites\spr_heartdisease</sprite>
+        <sprite>sprites\spr_heartburn</sprite>
+        <sprite>sprites\spr_enzyme</sprite>
+        <sprite>sprites\spr_carpaltunnel</sprite>
+        <sprite>sprites\spr_asthma</sprite>
+      </sprites>
+      <sprites name="small">
+        <sprite>sprites\spr_enzymeSmall</sprite>
+      </sprites>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -69,7 +74,7 @@
         <object>objects\obj_button_sushi</object>
       </objects>
       <objects name="misc">
-        <object>objects\buttonPlay</object>
+        <object>objects\obj_buttonPlay</object>
         <object>objects\obj_button_instructions</object>
         <object>objects\obj_button_instructions_2</object>
         <object>objects\obj_button_returnToHome</object>
@@ -78,6 +83,7 @@
     <objects name="player_character">
       <object>objects\obj_player</object>
     </objects>
+    <object>objects\obj_controller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
