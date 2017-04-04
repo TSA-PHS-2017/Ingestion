@@ -51,15 +51,15 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_enzyme" x="544" y="768" name="inst_1BEEE26F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_carpaltunnel" x="992" y="864" name="inst_8FABA1AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_heartburn" x="1408" y="992" name="inst_411F770E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_heartdisease" x="1088" y="992" name="inst_B65E793B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_asthma" x="1248" y="992" name="inst_F778D86B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_nosebleed" x="768" y="1120" name="inst_1EF4F1D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_mentalillness" x="672" y="1248" name="inst_9687F269" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_stomachacid" x="1184" y="864" name="inst_E70F9B22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_cavities" x="960" y="1120" name="inst_78FD41BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy3" x="544" y="768" name="inst_1BEEE26F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy2" x="992" y="864" name="inst_8FABA1AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy4" x="1408" y="992" name="inst_411F770E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy5" x="1088" y="992" name="inst_B65E793B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy1" x="1248" y="992" name="inst_F778D86B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy7" x="768" y="1120" name="inst_1EF4F1D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy6" x="672" y="1248" name="inst_9687F269" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy8" x="1184" y="864" name="inst_E70F9B22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy9" x="960" y="1120" name="inst_78FD41BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="buttonPlay" x="1344" y="1344" name="inst_F6705CC3" locked="0" code="" scaleX="1.39999997615814" scaleY="1.39999997615814" colour="4294967295" rotation="0"/>
     <instance objName="obj_button_instructions" x="1088" y="1344" name="inst_0E80432F" locked="0" code="" scaleX="2" scaleY="1.75" colour="4294967295" rotation="0"/>
     <instance objName="obj_button_returnToHome" x="832" y="1344" name="inst_C731A95E" locked="0" code="" scaleX="1" scaleY="0.875" colour="4294967295" rotation="0"/>

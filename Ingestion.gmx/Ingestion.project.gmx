@@ -38,26 +38,28 @@
     </sprites>
   </sprites>
   <backgrounds name="background">
-    <background>background\background_home</background>
-    <background>background\background_characterSelect</background>
-    <backgrounds name="instructions">
-      <background>background\instructions_page1</background>
-      <background>background\instructions_page2</background>
+    <backgrounds name="background_introduction">
+      <background>background\background_home</background>
+      <background>background\background_characterSelect</background>
+      <backgrounds name="instructions">
+        <background>background\instructions_page1</background>
+        <background>background\instructions_page2</background>
+      </backgrounds>
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_wall</object>
     <objects name="enemies">
-      <object>objects\obj_asthma</object>
-      <object>objects\obj_carpaltunnel</object>
-      <object>objects\obj_enzyme</object>
-      <object>objects\obj_heartburn</object>
-      <object>objects\obj_heartdisease</object>
-      <object>objects\obj_mentalillness</object>
-      <object>objects\obj_nosebleed</object>
-      <object>objects\obj_stomachacid</object>
-      <object>objects\obj_cavities</object>
+      <object>objects\obj_enemy1</object>
+      <object>objects\obj_enemy2</object>
+      <object>objects\obj_enemy3</object>
+      <object>objects\obj_enemy4</object>
+      <object>objects\obj_enemy5</object>
+      <object>objects\obj_enemy6</object>
+      <object>objects\obj_enemy7</object>
+      <object>objects\obj_enemy8</object>
+      <object>objects\obj_enemy9</object>
     </objects>
     <objects name="buttons">
       <objects name="character_select">
