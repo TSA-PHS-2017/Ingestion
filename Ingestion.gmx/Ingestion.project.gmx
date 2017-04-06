@@ -38,7 +38,15 @@
         <sprite>sprites\spr_asthma</sprite>
       </sprites>
       <sprites name="small">
+        <sprite>sprites\spr_cavitiesSmall</sprite>
+        <sprite>sprites\spr_stomachacidSmall</sprite>
+        <sprite>sprites\spr_nosebleedSmall</sprite>
+        <sprite>sprites\mentalillnessSmall</sprite>
+        <sprite>sprites\spr_heartdiseaseSmall</sprite>
+        <sprite>sprites\spr_heartburnSmall</sprite>
         <sprite>sprites\spr_enzymeSmall</sprite>
+        <sprite>sprites\spr_carpaltunnelSmall</sprite>
+        <sprite>sprites\spr_asthmaSmall</sprite>
       </sprites>
     </sprites>
   </sprites>
@@ -56,15 +64,15 @@
   <objects name="objects">
     <object>objects\obj_wall</object>
     <objects name="enemies">
-      <object>objects\obj_enemy1</object>
-      <object>objects\obj_enemy2</object>
-      <object>objects\obj_enemy3</object>
-      <object>objects\obj_enemy4</object>
-      <object>objects\obj_enemy5</object>
-      <object>objects\obj_enemy6</object>
-      <object>objects\obj_enemy7</object>
-      <object>objects\obj_enemy8</object>
-      <object>objects\obj_enemy9</object>
+      <object>objects\obj_enemy_toothdecay</object>
+      <object>objects\obj_enemy_stomachacid</object>
+      <object>objects\obj_enemy_nosebleed</object>
+      <object>objects\obj_enemy_mentalillness</object>
+      <object>objects\obj_enemy_heartdisease</object>
+      <object>objects\obj_enemy_heartburn</object>
+      <object>objects\obj_enemy_enzyme</object>
+      <object>objects\obj_enemy_carpaltunnel</object>
+      <object>objects\obj_enemy_asthma</object>
     </objects>
     <objects name="buttons">
       <objects name="character_select">
