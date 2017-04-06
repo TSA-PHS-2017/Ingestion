@@ -41,7 +41,7 @@
         <sprite>sprites\spr_cavitiesSmall</sprite>
         <sprite>sprites\spr_stomachacidSmall</sprite>
         <sprite>sprites\spr_nosebleedSmall</sprite>
-        <sprite>sprites\mentalillnessSmall</sprite>
+        <sprite>sprites\spr_mentalillnessSmall</sprite>
         <sprite>sprites\spr_heartdiseaseSmall</sprite>
         <sprite>sprites\spr_heartburnSmall</sprite>
         <sprite>sprites\spr_enzymeSmall</sprite>
