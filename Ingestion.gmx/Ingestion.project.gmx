@@ -110,6 +110,7 @@
     <room>rooms\rm_game</room>
     <room>rooms\rm_instructions</room>
     <room>rooms\rm_instructionsPage2</room>
+    <room>rooms\rm_fail</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

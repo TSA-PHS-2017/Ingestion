@@ -25,11 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>Health</string>
+            <string>playerSpeed</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>3</string>
+            <string>4</string>
           </argument>
         </arguments>
       </action>
@@ -448,6 +448,42 @@
         <isnot>0</isnot>
       </action>
     </event>
+    <event eventtype="4" ename="obj_enemy_enzyme">
+      <action>
+        <libid>1</libid>
+        <id>203</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_kill_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>224</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_another_room</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>11</kind>
+            <room>rm_fail</room>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="5" enumb="40">
       <action>
         <libid>1</libid>
@@ -549,7 +585,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>playerSpeed</string>
           </argument>
         </arguments>
       </action>
@@ -735,7 +771,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>playerSpeed</string>
           </argument>
         </arguments>
       </action>
@@ -921,7 +957,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>playerSpeed</string>
           </argument>
         </arguments>
       </action>
@@ -1107,7 +1143,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>playerSpeed</string>
           </argument>
         </arguments>
       </action>
