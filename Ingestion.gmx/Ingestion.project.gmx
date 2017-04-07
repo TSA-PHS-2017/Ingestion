@@ -49,11 +49,18 @@
         <sprite>sprites\spr_asthmaSmall</sprite>
       </sprites>
     </sprites>
+    <sprites name=" riddle">
+      <sprite>sprites\spr_riddle</sprite>
+      <sprite>sprites\spr_riddleText</sprite>
+      <sprite>sprites\spr_checkbox</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="background_introduction">
       <background>background\background_home</background>
       <background>background\background_characterSelect</background>
+      <background>background\background_win</background>
+      <background>background\background_lose</background>
       <backgrounds name="instructions">
         <background>background\instructions_page1</background>
         <background>background\instructions_page2</background>
@@ -103,6 +110,11 @@
       <object>objects\obj_player</object>
     </objects>
     <object>objects\obj_controller</object>
+    <object>objects\obj_riddle</object>
+    <object>objects\obj_riddleText</object>
+    <object>objects\obj_buttonright</object>
+    <object>objects\obj_buttonwrong</object>
+    <object>objects\obj_score</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
@@ -111,6 +123,7 @@
     <room>rooms\rm_instructions</room>
     <room>rooms\rm_instructionsPage2</room>
     <room>rooms\rm_fail</room>
+    <room>rooms\rm_win</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
