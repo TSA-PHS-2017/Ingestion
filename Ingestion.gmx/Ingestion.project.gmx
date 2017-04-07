@@ -49,7 +49,6 @@
         <sprite>sprites\spr_asthmaSmall</sprite>
       </sprites>
     </sprites>
-    <sprite>sprites\spr_sign</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="background_introduction">
@@ -60,12 +59,8 @@
         <background>background\instructions_page2</background>
       </backgrounds>
     </backgrounds>
-    <background>background\bg_death</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\script0.gml</script>
-  </scripts>
   <objects name="objects">
     <object>objects\obj_wall</object>
     <objects name="enemies">
@@ -78,17 +73,6 @@
       <object>objects\obj_enemy_enzyme</object>
       <object>objects\obj_enemy_carpaltunnel</object>
       <object>objects\obj_enemy_asthma</object>
-      <objects name="enemy_representation">
-        <object>objects\obj_enemy_toothdecay_representation</object>
-        <object>objects\obj_enemy_stomachacid_representation</object>
-        <object>objects\obj_enemy_nosebleed_representation</object>
-        <object>objects\obj_enemy_mentalillness_representation</object>
-        <object>objects\obj_enemy_heartdisease_representation</object>
-        <object>objects\obj_enemy_heartburn_representation</object>
-        <object>objects\obj_enemy_enzyme_representation</object>
-        <object>objects\obj_enemy_carpaltunnel_representation</object>
-        <object>objects\obj_enemy_asthma_representation</object>
-      </objects>
     </objects>
     <objects name="buttons">
       <objects name="character_select">
@@ -108,7 +92,6 @@
       <object>objects\obj_player</object>
     </objects>
     <object>objects\obj_controller</object>
-    <object>objects\obj_sign</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
@@ -116,7 +99,6 @@
     <room>rooms\rm_game</room>
     <room>rooms\rm_instructions</room>
     <room>rooms\rm_instructionsPage2</room>
-    <room>rooms\rm_death</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
