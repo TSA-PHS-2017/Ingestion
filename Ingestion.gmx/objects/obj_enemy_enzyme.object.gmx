@@ -197,7 +197,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>
@@ -305,7 +305,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>
@@ -413,7 +413,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>
@@ -521,7 +521,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>
@@ -731,7 +731,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>
@@ -891,7 +891,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>
@@ -1051,7 +1051,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>
@@ -1211,7 +1211,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>enemySpeed</string>
           </argument>
         </arguments>
       </action>

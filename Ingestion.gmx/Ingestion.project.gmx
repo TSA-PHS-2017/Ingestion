@@ -73,6 +73,17 @@
       <object>objects\obj_enemy_enzyme</object>
       <object>objects\obj_enemy_carpaltunnel</object>
       <object>objects\obj_enemy_asthma</object>
+      <objects name="representation">
+        <object>objects\obj_enemy_toothdecay_representation</object>
+        <object>objects\obj_enemy_stomachacid_representation</object>
+        <object>objects\obj_enemy_nosebleed_representation</object>
+        <object>objects\obj_enemy_mentalillness_representation</object>
+        <object>objects\obj_enemy_heartdisease_representation</object>
+        <object>objects\obj_enemy_heartburn_representation</object>
+        <object>objects\obj_enemy_enzyme_representation</object>
+        <object>objects\obj_enemy_carpaltunnel_representation</object>
+        <object>objects\obj_enemy_asthma_representation</object>
+      </objects>
     </objects>
     <objects name="buttons">
       <objects name="character_select">
