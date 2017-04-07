@@ -67,7 +67,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -187,7 +187,7 @@
           </argument>
           <argument>
             <kind>1</kind>
-            <string>Score: </string>
+            <string>Time: </string>
           </argument>
         </arguments>
       </action>

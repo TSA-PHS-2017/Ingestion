@@ -4,7 +4,10 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound_defaultmusic</sound>
+    <sound>sound\sound_losingmusic</sound>
+  </sounds>
   <sprites name="sprites">
     <sprites name="backgrounds">
       <sprite>sprites\spr_homeBackground</sprite>
@@ -54,6 +57,18 @@
       <sprite>sprites\spr_riddleText</sprite>
       <sprite>sprites\spr_checkbox</sprite>
     </sprites>
+    <sprites name="fun_facts">
+      <sprite>sprites\spr_funfact0</sprite>
+      <sprite>sprites\spr_funfact1</sprite>
+      <sprite>sprites\spr_funfact2</sprite>
+      <sprite>sprites\spr_funfact3</sprite>
+      <sprite>sprites\spr_funfact4</sprite>
+      <sprite>sprites\spr_funfact5</sprite>
+      <sprite>sprites\spr_funfact6</sprite>
+      <sprite>sprites\spr_funfact7</sprite>
+      <sprite>sprites\spr_funfact8</sprite>
+      <sprite>sprites\spr_funfact9</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="background_introduction">
@@ -63,7 +78,9 @@
       <background>background\background_lose</background>
       <backgrounds name="instructions">
         <background>background\instructions_page1</background>
+        <background>background\background_instructionspage1</background>
         <background>background\instructions_page2</background>
+        <background>background\background_instructionspage2</background>
       </backgrounds>
     </backgrounds>
   </backgrounds>
@@ -109,12 +126,16 @@
     <objects name="player_character">
       <object>objects\obj_player</object>
     </objects>
-    <object>objects\obj_controller</object>
-    <object>objects\obj_riddle</object>
-    <object>objects\obj_riddleText</object>
-    <object>objects\obj_buttonright</object>
-    <object>objects\obj_buttonwrong</object>
-    <object>objects\obj_score</object>
+    <objects name="riddle">
+      <object>objects\obj_riddleText</object>
+      <object>objects\obj_riddle</object>
+      <object>objects\obj_buttonwrong</object>
+      <object>objects\obj_controller</object>
+      <object>objects\obj_timelose</object>
+      <object>objects\obj_timewin</object>
+      <object>objects\obj_buttonright</object>
+    </objects>
+    <object>objects\obj_funfact</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_title</room>
